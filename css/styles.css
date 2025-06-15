@@ -3830,7 +3830,7 @@ img.u-pull-left {
 }
 
 .modal-popup__details {
-    background-color : rgba(0, 0, 0, 0.3);
+    background-color : rgb(255 188 0 / 50%);
     font-size        : var(--text-xs);
     line-height      : var(--vspace-1_25);
     color            : white;
@@ -3842,7 +3842,7 @@ img.u-pull-left {
 
 .modal-popup__details:focus,
 .modal-popup__details:hover {
-    background-color : var(--color-body);
+    background-color : rgb(255 188 0);
     color            : white;
 }
 
